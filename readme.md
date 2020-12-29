@@ -1,5 +1,7 @@
 # Official repo is full of bugs. Here I fix them for my personal needs!!!
 
+_BTW market of headless cms' is completely dead! Super low OOFfer: Strapi and Diarrhectus. Somebody make a good CMS that will work with existing SQL Db. Thanks!_
+
 <p align="center"><img width="400" alt="Logo" src="https://user-images.githubusercontent.com/522079/89687381-23943700-d8ce-11ea-9a4d-ae3eae136423.png"></p>
 
 <br>
